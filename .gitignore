@@ -1,0 +1,23 @@
+# env file
+.env
+
+# virtual environment
+venv/
+myenv/
+
+# IDE
+.idea/
+.vscode/
+
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# token file
+token.json
+
+# credentials file
+credentials.json
